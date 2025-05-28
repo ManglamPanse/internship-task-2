@@ -1,0 +1,2 @@
+# internship-task-2
+STUDENT GRADE CALCULATOR
